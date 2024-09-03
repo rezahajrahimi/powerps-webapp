@@ -3,7 +3,7 @@
 
 ## Installation
 
-powerps-web requires [powerps-core](https://nodejs.org/) v2+ to run.
+powerps-web requires [powerps-core](https://github.com/rezahajrahimi/powerps-core) v2+ to run.
 
 - upload files to your host
 - open /assest/.env
