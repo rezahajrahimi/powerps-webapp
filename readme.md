@@ -9,7 +9,7 @@ powerps-web requires [powerps-core](https://github.com/rezahajrahimi/powerps-cor
 - open /assest/.env
 - change BASE_URL with your powerps-core url
 
-# ربات فروشنده و وب اپلیکیشن هیدیفای
+# ربات فروشنده و وب اپلیکیشن برای فروش کانفیگ v2ray
 ## _قسمت وب اپلیکیشن_
 ## نصب
 
