@@ -13,7 +13,7 @@ powerps-web requires [powerps-core](https://github.com/rezahajrahimi/powerps-cor
 ## _قسمت وب اپلیکیشن_
 ## نصب
 
-از قبل می بایست بر روی سرور خود  [powerps-core](https://nodejs.org/) را نصب داشته باشید.
+از قبل می بایست بر روی سرور خود  [powerps-core](https://github.com/rezahajrahimi/powerps-core) را نصب داشته باشید.
 
 - فایل ها را بصورت کامل بر روی سرور خود آپلود کنید.
 - فایل /assest/.env را برای ویرایش باز کنید.
