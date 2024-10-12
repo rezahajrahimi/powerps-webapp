@@ -112193,8 +112193,8 @@ $S:4}
 A.aQW.prototype={
 $0(){var s=this.b,r=this.a
 s.push(new A.rt("\u0646\u0645\u0627\u06cc\u0634 \u06a9\u0627\u0646\u0641\u06cc\u06af\u0647\u0627 \u0628\u0631 \u0627\u0633\u0627\u0633 \u0645\u0648\u0642\u0639\u06cc\u062a \u062c\u063a\u0631\u0627\u0641\u06cc\u0627\u06cc\u06cc \u067e\u0646\u0644 \u062f\u0631 \u0631\u0628\u0627\u062a","bot_show_configs_by_panels_category",r.r.a,null))
-s.push(new A.rt("\u0628\u0647 \u0631\u0648\u0632 \u0634\u062f\u0646 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0642\u06cc\u0645\u062a \u062f\u0644\u0627\u0631\u06cc \u0628\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u06a9\u0627\u0646\u0641\u06cc\u06af \u0628\u0631 \u0627\u0633\u0627\u0633 \u0646\u0631\u062e \u062a\u062a\u0631 \u0648 \u0642\u06cc\u0645\u062a \u062a\u0648\u0645\u0627\u0646\u06cc \u062b\u0628\u062a \u0634\u062f\u0647",u.l,r.r.a,null))
-s.push(new A.rt("\u0628\u0647 \u0631\u0648\u0632 \u0634\u062f\u0646 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0642\u06cc\u0645\u062a \u0628\u0633\u062a\u0647\u200c\u0647\u0627\u06cc \u06a9\u0627\u0646\u0641\u06cc\u06af \u0628\u0631 \u0627\u0633\u0627\u0633 \u0646\u0631\u062e \u062f\u0644\u0627\u0631","bot_auto_set_price_by_dollar_price",r.r.b,null))},
+s.push(new A.rt("\u0642\u06cc\u0645\u062a \u062f\u0644\u0627\u0631\u06cc \u0628\u0633\u062a\u0647 \u0647\u0627 \u0628\u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0631 \u0627\u0633\u0627\u0633 \u0646\u0648\u0633\u0627\u0646\u0627\u062a \u062f\u0644\u0627\u0631 \u0628\u0647 \u0631\u0648\u0632 \u0634\u0648\u062f",u.l,r.r.a,null))
+s.push(new A.rt("\u0642\u06cc\u0645\u062a \u062a\u0648\u0645\u0627\u0646\u06cc \u0628\u0633\u062a\u0647\u200c\u0647\u0627 \u0628\u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u0628\u0631 \u0627\u0633\u0627\u0633 \u0646\u0648\u0633\u0627\u0646\u0627\u062a \u062f\u0644\u0627\u0631 \u0628\u0647 \u0631\u0648\u0632 \u0634\u0648\u062f","bot_auto_set_price_by_dollar_price",r.r.b,null))},
 $S:0}
 A.Us.prototype={
 C(a){var s=null
@@ -116324,9 +116324,9 @@ U(){this.a2()},
 C(a){return this.asm(a)},
 asm(a){if(this.a.e.d==="admin")return this.asu(a)
 else return this.asv(a)},
-asu(a){var s=this,r=null,q=t.p,p=A.cH(new A.az(B.aF,A.ac(A.a([A.M("3.7.0",r,r,r,r,A.cY(r,r,B.ar,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.n(r,16,r),A.M(" Power Proxy Seller ",r,r,r,r,A.cY(r,r,B.ar,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.n(r,16,r)],q),B.h,B.Z,B.d,r),r),r,r),o=s.a.d
+asu(a){var s=this,r=null,q=t.p,p=A.cH(new A.az(B.aF,A.ac(A.a([A.M("3.7.3",r,r,r,r,A.cY(r,r,B.ar,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.n(r,16,r),A.M(" Power Proxy Seller ",r,r,r,r,A.cY(r,r,B.ar,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.n(r,16,r)],q),B.h,B.Z,B.d,r),r),r,r),o=s.a.d
 return A.b6T(A.y(A.a([p,B.mB,B.hK,new A.jH("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.qx,new A.aSf(s),o==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",r),new A.jH("\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",B.dH,new A.aSg(s),o==="\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",r),new A.jH("\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",B.Pm,new A.aSh(s),o==="\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",r),new A.jH("\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",B.Pl,new A.aSi(s),o==="\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",r),new A.jH("\u0631\u062e\u062f\u0627\u062f\u0647\u0627",B.PF,new A.aSj(s),o==="\u0631\u062e\u062f\u0627\u062f\u0647\u0627",r),new A.jH("\u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0631\u0628\u0627\u062a",B.PZ,new A.aSk(s),o==="\u062a\u0646\u0638\u06cc\u0645\u0627\u062a",r),new A.jH("\u062e\u0631\u0648\u062c",B.qA,new A.aSl(s,a),o==="Sign Up",r),B.mB,B.hK,A.aL(new A.az(B.aF,A.ac(A.a([A.EM(B.eg,B.qP,new A.aSm()),A.EM(B.eg,B.ld,new A.aSn()),A.EM(B.eg,B.qQ,new A.aSo())],q),B.h,B.V,B.d,r),r),1)],q),B.h,B.f,B.d))},
-asv(a){var s=null,r=t.p,q=A.cH(new A.az(B.aF,A.ac(A.a([A.M("3.7.0",s,s,s,s,A.cY(s,s,B.ar,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.n(s,16,s),A.M(" Power Proxy Seller ",s,s,s,s,A.cY(s,s,B.ar,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.n(s,16,s)],r),B.h,B.Z,B.d,s),s),s,s),p=this.a.d
+asv(a){var s=null,r=t.p,q=A.cH(new A.az(B.aF,A.ac(A.a([A.M("3.7.3",s,s,s,s,A.cY(s,s,B.ar,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.n(s,16,s),A.M(" Power Proxy Seller ",s,s,s,s,A.cY(s,s,B.ar,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.n(s,16,s)],r),B.h,B.Z,B.d,s),s),s,s),p=this.a.d
 return A.b6T(A.y(A.a([q,B.hK,new A.jH("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.qx,new A.aSq(this),p==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",s),new A.jH("\u062e\u0631\u0648\u062c",B.qA,new A.aSr(this,a),p==="Sign Up",s),B.mB,B.hK,A.aL(new A.az(B.aF,A.ac(A.a([A.EM(B.eg,B.qP,new A.aSs()),A.EM(B.eg,B.ld,new A.aSt()),A.EM(B.eg,B.qQ,new A.aSu())],r),B.h,B.V,B.d,s),s),1)],r),B.h,B.f,B.d))}}
 A.aSf.prototype={
 $0(){this.a.a.c.$1("dashboard")},
@@ -126824,7 +126824,7 @@ B.Yd=new A.az(B.aF,B.a0T,null)
 B.pU=new A.r(0,0,0,50)
 B.IZ=new A.I(1308622847)
 B.a2V=new A.z(!0,B.IZ,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.a7m=new A.aa("version: 3.7.0",null,B.a2V,null,null,null,null,null,null,null)
+B.a7m=new A.aa("version: 3.7.3",null,B.a2V,null,null,null,null,null,null,null)
 B.y1=new A.az(B.pU,B.a7m,null)
 B.a2Q=new A.z(!0,B.u,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.a6O=new A.aa(" Power Proxy Seller ",null,B.a2Q,null,null,null,null,null,null,null)
