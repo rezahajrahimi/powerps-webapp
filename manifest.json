@@ -1,6 +1,6 @@
 {
-    "name": "power_ps_front_3",
-    "short_name": "power_ps_front_3",
+    "name": "PowerPS",
+    "short_name": "PowerPS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
