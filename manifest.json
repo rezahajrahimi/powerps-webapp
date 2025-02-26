@@ -1,11 +1,11 @@
 {
-    "name": "PowerPS",
-    "short_name": "PowerPS",
+    "name": "Power Ps",
+    "short_name": "Power Ps",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "Power Proxy Seller.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
