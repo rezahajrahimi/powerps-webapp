@@ -114070,10 +114070,15 @@ s=o.x
 o.db=s.f
 o.dx=s.r
 s=p.e
-o.y=s
-o.dy.sai(s.c)
-o.fr.sai(o.y.e)
-o.fx=o.y.f},
+r=o.dy
+q=o.fr
+if(s!=null){o.y=s
+r.sai(s.c)
+q.sai(o.y.e)
+o.fx=o.y.f}else{o.y=null
+r.sai("")
+q.sai("")
+o.fx=!1}},
 $S:0}
 A.aT7.prototype={
 $0(){this.a.d=!0},
@@ -119838,9 +119843,9 @@ S(){this.Z()},
 C(a){return this.auM(a)},
 auM(a){if(this.a.e.d==="admin")return this.auV(a)
 else return this.auW(a)},
-auV(a){var s=this,r=null,q=t.p,p=A.cy(new A.au(B.aK,A.a9(A.a([A.E("6.0.0",r,r,r,r,A.d2(r,r,B.aG,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.m(r,16,r,r),A.E(" Power Proxy Seller ",r,r,r,r,A.d2(r,r,B.aG,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.m(r,16,r,r)],q),B.h,B.Y,B.d,r),r),r,r),o=s.a.d
+auV(a){var s=this,r=null,q=t.p,p=A.cy(new A.au(B.aK,A.a9(A.a([A.E("6.0.7",r,r,r,r,A.d2(r,r,B.aG,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.m(r,16,r,r),A.E(" Power Proxy Seller ",r,r,r,r,A.d2(r,r,B.aG,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.m(r,16,r,r)],q),B.h,B.Y,B.d,r),r),r,r),o=s.a.d
 return A.bda(A.x(A.a([p,B.hE,B.iw,new A.jY("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.r7,new A.aYf(s),o==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",r),new A.jY("\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",B.dW,new A.aYg(s),o==="\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",r),new A.jY("\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",B.Q5,new A.aYh(s),o==="\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",r),new A.jY("\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",B.Q4,new A.aYi(s),o==="\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",r),new A.jY("\u0631\u062e\u062f\u0627\u062f\u0647\u0627",B.Qs,new A.aYj(s),o==="\u0631\u062e\u062f\u0627\u062f\u0647\u0627",r),new A.jY("\u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0631\u0628\u0627\u062a",B.QU,new A.aYk(s),o==="\u062a\u0646\u0638\u06cc\u0645\u0627\u062a",r),new A.jY("\u062e\u0631\u0648\u062c",B.ra,new A.aYl(s,a),o==="Sign Up",r),B.hE,B.iw,A.aG(new A.au(B.aK,A.a9(A.a([A.G4(B.eB,B.rs,new A.aYm()),A.G4(B.eB,B.lP,new A.aYn()),A.G4(B.eB,B.ru,new A.aYo())],q),B.h,B.Z,B.d,r),r),1)],q),B.h,B.e,B.d,0))},
-auW(a){var s=null,r=t.p,q=A.cy(new A.au(B.aK,A.a9(A.a([A.E("6.0.0",s,s,s,s,A.d2(s,s,B.aG,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.m(s,16,s,s),A.E(" Power Proxy Seller ",s,s,s,s,A.d2(s,s,B.aG,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.m(s,16,s,s)],r),B.h,B.Y,B.d,s),s),s,s),p=this.a.d
+auW(a){var s=null,r=t.p,q=A.cy(new A.au(B.aK,A.a9(A.a([A.E("6.0.7",s,s,s,s,A.d2(s,s,B.aG,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.m(s,16,s,s),A.E(" Power Proxy Seller ",s,s,s,s,A.d2(s,s,B.aG,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.m(s,16,s,s)],r),B.h,B.Y,B.d,s),s),s,s),p=this.a.d
 return A.bda(A.x(A.a([q,B.iw,new A.jY("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.r7,new A.aYq(this),p==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",s),new A.jY("\u062e\u0631\u0648\u062c",B.ra,new A.aYr(this,a),p==="Sign Up",s),B.hE,B.iw,A.aG(new A.au(B.aK,A.a9(A.a([A.G4(B.eB,B.rs,new A.aYs()),A.G4(B.eB,B.lP,new A.aYt()),A.G4(B.eB,B.ru,new A.aYu())],r),B.h,B.Z,B.d,s),s),1)],r),B.h,B.e,B.d,0))}}
 A.aYf.prototype={
 $0(){this.a.a.c.$1("dashboard")},
@@ -132103,7 +132108,7 @@ B.adI=new A.a3("\u0648\u06cc\u0631\u0627\u06cc\u0634 \u0645\u0648\u062c\u0648\u0
 B.adK=new A.a3("\u067e\u0646\u0644 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f",null,null,null,null,null,null,null,null,null)
 B.adL=new A.a3("\u062e\u0631\u06cc\u062f \u06a9\u0627\u0646\u0641\u06cc\u06af \u062c\u062f\u06cc\u062f",null,null,null,null,null,null,null,null,null)
 B.a8r=new A.B(!0,B.aG,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.EY=new A.a3("version: 6.0.0",null,B.a8r,null,null,null,null,null,null,null)
+B.EY=new A.a3("version: 6.0.7",null,B.a8r,null,null,null,null,null,null,null)
 B.adN=new A.a3("\u0627\u0641\u0632\u0648\u062f\u0646 \u0633\u0648\u0627\u0644\u0627\u062a \u0645\u062a\u062f\u0627\u0648\u0644",null,null,null,null,null,null,null,null,null)
 B.adO=new A.a3(" \u062a\u0641\u0627\u0648\u0648\u062a \u0647\u0632\u06cc\u0646\u0647 \u0627\u0632 \u06a9\u06cc\u0641 \u06a9\u0627\u0631\u0628\u0631 \u06a9\u0645 \u0634\u0648\u062f\u061f",null,null,null,null,null,null,null,null,null)
 B.EZ=new A.a3("\u0646\u0627\u0645 \u0628\u0633\u062a\u0647",null,null,null,null,null,null,null,null,null)
