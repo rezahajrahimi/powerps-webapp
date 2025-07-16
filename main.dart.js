@@ -122277,9 +122277,9 @@ S(){this.a_()},
 D(a){return this.aw2(a)},
 aw2(a){if(this.a.e.d==="admin")return this.awb(a)
 else return this.awc(a)},
-awb(a){var s=this,r=null,q=t.p,p=A.cz(new A.ar(B.aM,A.ab(A.a([A.A("6.6.0",r,r,r,r,A.d_(r,r,B.aF,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.n(r,16,r,r),A.A(" Power Proxy Seller ",r,r,r,r,A.d_(r,r,B.aF,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.n(r,16,r,r)],q),B.h,B.Z,B.d,r),r),r,r),o=s.a.d
+awb(a){var s=this,r=null,q=t.p,p=A.cz(new A.ar(B.aM,A.ab(A.a([A.A("6.6.1",r,r,r,r,A.d_(r,r,B.aF,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.n(r,16,r,r),A.A(" Power Proxy Seller ",r,r,r,r,A.d_(r,r,B.aF,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.n(r,16,r,r)],q),B.h,B.Z,B.d,r),r),r,r),o=s.a.d
 return A.bfy(A.y(A.a([p,B.hH,B.iz,new A.k6("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.rp,new A.b_H(s),o==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",r),new A.k6("\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",B.e2,new A.b_I(s),o==="\u06a9\u0627\u0646\u0641\u06cc\u06af\u200c\u0647\u0627",r),new A.k6("\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",B.Qo,new A.b_J(s),o==="\u06a9\u0627\u0631\u0628\u0631\u0627\u0646",r),new A.k6("\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",B.Qn,new A.b_K(s),o==="\u062a\u0631\u0627\u06a9\u0646\u0634\u200c\u0647\u0627",r),new A.k6("\u0631\u062e\u062f\u0627\u062f\u0647\u0627",B.QM,new A.b_L(s),o==="\u0631\u062e\u062f\u0627\u062f\u0647\u0627",r),new A.k6("\u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0631\u0628\u0627\u062a",B.Rd,new A.b_M(s),o==="\u062a\u0646\u0638\u06cc\u0645\u0627\u062a",r),new A.k6("\u062e\u0631\u0648\u062c",B.rt,new A.b_N(s,a),o==="Sign Up",r),B.hH,B.iz,A.aH(new A.ar(B.aM,A.ab(A.a([A.Gv(B.eD,B.rz,new A.b_O()),A.Gv(B.eD,B.ma,new A.b_P()),A.Gv(B.eD,B.rP,new A.b_Q())],q),B.h,B.a1,B.d,r),r),1)],q),B.h,B.e,B.d,0))},
-awc(a){var s=null,r=t.p,q=A.cz(new A.ar(B.aM,A.ab(A.a([A.A("6.6.0",s,s,s,s,A.d_(s,s,B.aF,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.n(s,16,s,s),A.A(" Power Proxy Seller ",s,s,s,s,A.d_(s,s,B.aF,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.n(s,16,s,s)],r),B.h,B.Z,B.d,s),s),s,s),p=this.a.d
+awc(a){var s=null,r=t.p,q=A.cz(new A.ar(B.aM,A.ab(A.a([A.A("6.6.1",s,s,s,s,A.d_(s,s,B.aF,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.n(s,16,s,s),A.A(" Power Proxy Seller ",s,s,s,s,A.d_(s,s,B.aF,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.n(s,16,s,s)],r),B.h,B.Z,B.d,s),s),s,s),p=this.a.d
 return A.bfy(A.y(A.a([q,B.iz,new A.k6("\u062f\u0627\u0634\u0628\u0648\u0631\u062f",B.rp,new A.b_S(this),p==="\u062f\u0627\u0634\u0628\u0648\u0631\u062f",s),new A.k6("\u062e\u0631\u0648\u062c",B.rt,new A.b_T(this,a),p==="Sign Up",s),B.hH,B.iz,A.aH(new A.ar(B.aM,A.ab(A.a([A.Gv(B.eD,B.rz,new A.b_U()),A.Gv(B.eD,B.ma,new A.b_V()),A.Gv(B.eD,B.rP,new A.b_W())],r),B.h,B.a1,B.d,s),s),1)],r),B.h,B.e,B.d,0))}}
 A.b_H.prototype={
 $0(){this.a.a.c.$1("dashboard")},
@@ -134586,7 +134586,7 @@ B.ae2=new A.a4("\u0627\u0641\u0632\u0648\u062f\u0646 \u06af\u06cc\u0641\u062a \u
 B.ae3=new A.a4("\u0642\u06cc\u0645\u062a \u0628\u0647 \u062f\u0644\u0627\u0631",null,null,null,null,null,null,null,null,null)
 B.ae4=new A.a4("\u067e\u06cc\u0627\u0645\u200c\u0647\u0627\u06cc \u062e\u0648\u062f\u06a9\u0627\u0631",null,null,null,null,null,null,null,null,null)
 B.a8G=new A.E(!0,B.aF,null,null,null,null,12,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.F4=new A.a4("version: 6.6.0",null,B.a8G,null,null,null,null,null,null,null)
+B.F4=new A.a4("version: 6.6.1",null,B.a8G,null,null,null,null,null,null,null)
 B.F5=new A.a4("\u06cc\u06a9 \u067e\u0646\u0644 \u0631\u0627 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f",null,null,null,null,null,null,null,null,null)
 B.o0=new A.a4("\u062f\u0631\u062d\u0627\u0644 \u062f\u0631\u06cc\u0627\u0641\u062a \u0627\u0637\u0644\u0627\u0639\u0627\u062a",null,null,null,B.t,null,null,null,null,null)
 B.ae6=new A.a4("\u0646\u0627\u0645 \u0631\u0648\u0634 \u067e\u0631\u062f\u0627\u062e\u062a",null,null,null,null,null,null,null,null,null)
