@@ -1,27 +1,29 @@
-# PopwerPs-Web
-## _web application of power proxy seller_
+# PowerPs Web
 
-## Installation
+وب‌اپلیکیشن [Power Proxy Seller](https://powerps.ir) برای مدیریت ربات فروش V2Ray.
 
-powerps-web requires [powerps-core](https://github.com/rezahajrahimi/powerps-core) v3+ to run.
+## نیازمندی
 
-- upload files to your host
-- open /assest/.env
-- change BASE_URL with your powerps-core url
+این وب‌اپ به [powerps-core](https://github.com/rezahajrahimi/powerps-core) نسخه ۳ به بالا نیاز دارد.
 
-# ربات فروشنده و وب اپلیکیشن برای فروش کانفیگ v2ray
-## _قسمت وب اپلیکیشن_
-## نصب
+## نصب دستی
 
-از قبل می بایست بر روی سرور خود  [powerps-core](https://github.com/rezahajrahimi/powerps-core) را نصب داشته باشید.
+1. فایل‌های ریپو را روی هاست آپلود کنید.
+2. فایل `assets/.env` را باز کنید.
+3. مقدار `BASE_URL` را برابر آدرس powerps-core قرار دهید.
 
-- فایل ها را بصورت کامل بر روی سرور خود آپلود کنید.
-- فایل /assest/.env را برای ویرایش باز کنید.
-- مقدار BASE_URL را برابر آدرس powerps-core قرار بدهید و ذخیره کنید.
+```env
+BASE_URL=https://core.yourdomain.com
+```
 
+## نصب با اسکریپت powerps-core
 
-## Support
+اگر از [install.sh](https://github.com/rezahajrahimi/powerps-core-scripts) استفاده می‌کنید، این مقدار هنگام نصب خودکار در `assets/.env` تنظیم می‌شود.
 
-در تلگرام به آیدی  [powerproxysellersupport](https://t.me/powerproxysellersupport) پیام بدهید.
+## English
 
-همچنین می توانید عضو گروه تلگرامی [powerproxysellerchat](https://t.me/powerproxysellerchat) بشوید و درگروه سوالات خود را در میان بگذارید.
+Flutter web build output for PowerPs admin panel.
+
+Requires [powerps-core](https://github.com/rezahajrahimi/powerps-core) v3+.
+
+Set `BASE_URL` in `assets/.env` to your core API URL.
